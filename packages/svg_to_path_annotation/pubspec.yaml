@@ -4,7 +4,7 @@ version: 1.0.0
 homepage: https://github.com/karabanovbs/svg_to_path_generator/tree/master/packages/svg_to_path_annotation
 
 environment:
-  sdk: '>=2.12.0-0 <3.0.0'
+  sdk: '>=2.19.2 <3.0.0'
 dependencies:
   flutter:
     sdk: flutter
